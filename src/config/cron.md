@@ -15,7 +15,7 @@ implementations are available, including
 Once you have chosen and installed an implementation,
 [enable](./services/index.md#enabling-services) the corresponding service. There
 is also a generic `crond` service which is maintained by the alternatives
-system, but there is no real benefit in using it since it just makes your setup
+system, but there is no real benefit in using it because it just makes your setup
 harder to follow.
 
 As an alternative to the standard cron implementations, you can use
